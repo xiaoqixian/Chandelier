@@ -1,0 +1,2 @@
+1.在src下建立db.properties;
+2.当修改数据库时，前去TableContext类修改dbmd下的参数，该参数决定了从哪个数据库中获取表
